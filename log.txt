@@ -1,10 +1,7 @@
-{
- "records": [
- {
- "version": "OSWA v5.0",
- "code": 23,
- "url": "https://osmodwa.blogspot.com/2021/03/os-whatsapp-v5.html?m=1",
- "changelog": "- Backup Restore Theme include Cover - Themes Store - Fix Bug (Semoga)" 
-} 
-] 
+{"version_code":999999999,"content":"
+<p>Title</p>
+
+
+<l>Lista de combìos</lì>
+","url":"https://osmodwa.blogspot.com/2021/03/os-whatsapp-v5.html?m=1"
 }
