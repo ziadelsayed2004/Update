@@ -1,8 +1,0 @@
-{"version_code":211016006,"content":"
-<p>v7.0 | New Edition</p>
-
-<li>Extension Update !</li>
-
-
-","url":"https://osmodwa.blogspot.com/2021/05/whatsapp-store-base-2211016-with-privacy.html?m=1"
-}
