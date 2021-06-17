@@ -4,7 +4,7 @@
 	"update": [
 		{
 			"languaje": "en",
-			"changelog": "https://github.com/OmarShawkey13/Update/blob/main/os-update.html"
+			"changelog": "https://raw.githubusercontent.com/OmarShawkey13/Update/main/os-update.html"
 		},
 		{
 			"languaje": "es",
