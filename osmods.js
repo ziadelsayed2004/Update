@@ -1,6 +1,6 @@
 {
 	"version": "7.0",
-	"download": "https://ymmods-official.blogspot.com/2021/04/ymwab.html",
+	"download": "https://osmodwa.blogspot.com/2021/05/whatsapp-store-base-2211016-with-privacy.html?m=1",
 	"update": [
 		{
 			"languaje": "en",
