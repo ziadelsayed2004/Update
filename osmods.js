@@ -8,7 +8,7 @@
 		},
 		{
 			"languaje": "es",
-			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-B-es.html"
+			"changelog": "https://github.com/OmarShawkey13/Update/blob/main/os-update-2.html"
 		}
 	]
 }
