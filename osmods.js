@@ -1,5 +1,5 @@
 {
-	"version": "1.1",
+	"version": "2.0",
 	"download": "https://osmodwa.blogspot.com/2021/05/whatsapp-store-base-2211016-with-privacy.html?m=1",
 	"update": [
 		{
