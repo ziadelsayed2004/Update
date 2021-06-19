@@ -1,5 +1,5 @@
 {
-	"version": "1.1",
+	"version": "1.0",
 	"download": "https://osmodwa.blogspot.com/2021/06/whatsapp-business-store-base-2211016.html?m=1",
 	"update": [
 		{
