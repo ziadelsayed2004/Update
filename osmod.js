@@ -1,6 +1,6 @@
 {
 	"version": "1.0",
-	"download": "https://osmodwa.blogspot.com/2021/06/whatsapp-business-store-base-2211016.html?m=1",
+	"download": "http://osmodwa.blogspot.com/2021/06/whatsapp-business-store-base-2211112.html",
 	"update": [
 		{
 			"languaje": "en",
