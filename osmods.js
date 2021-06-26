@@ -1,6 +1,6 @@
 {
-	"version": "1.0",
-	"download": "http://osmodwa.blogspot.com/2021/06/whatsapp-store-base-2211117-plus.html",
+	"version": "2.0",
+	"download": "https://osmodwa.blogspot.com/2021/06/whatsapp-store-base-2211117-plus.html?m=1",
 	"update": [
 		{
 			"languaje": "en",
