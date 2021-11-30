@@ -1,14 +1,11 @@
 {
   "records": [
     {
-      "ver1": "3",
-      "ver2": "5",
-      "ver3": "- Base Update -
-Ziad Elsayed - ZE Mod Lab",
-      "dli": "https://www.ziadelsayed.ml/z-whatsapp",
-      "exp893": "1"
-      "exp895": "1"
-      "exp300": "162"
+      "version": "Z-WhatsApp V3.00",
+      "code": 3,
+      "url": "https://www.ziadelsayed.ml/z-whatsapp",
+      "changelog": "Update base - some features were added
+Ziad Elsayed - ZE Mod Lab"
     }
   ]
 }
